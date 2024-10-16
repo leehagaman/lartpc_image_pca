@@ -1,4 +1,6 @@
 *.png
 *.h5
 *.npz
+*.out
 venv/
+__pycache__/
